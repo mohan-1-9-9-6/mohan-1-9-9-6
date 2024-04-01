@@ -11,4 +11,4 @@ mohan-1-9-9-6/mohan-1-9-9-6 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 I am HR in Netradyne Technology- AI Fleet Based Management company
-We have multiple openings, Share your resume if you are intrested.
+We have multiple openings, Share your resume to **mohan.t@netradyne.com** if you are intrested.
